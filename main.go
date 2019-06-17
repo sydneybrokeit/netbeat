@@ -5,7 +5,7 @@ import (
 
 	"github.com/hmschreck/netbeat/cmd"
 
-	_ "github.com/hmschreck/netbeat/include"
+	// _ "github.com/hmschreck/netbeat/include"
 )
 
 func main() {

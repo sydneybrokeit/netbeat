@@ -1,6 +1,6 @@
 # Netbeat
 
-Welcome to Netbeat.
+An SNMP monitor built on libbeat and based on otilio.
 
 Ensure that this folder is at the following location:
 `${GOPATH}/src/github.com/hmschreck/netbeat`
