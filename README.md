@@ -7,6 +7,8 @@ Ensure that this folder is at the following location:
 
 ## Getting Started with Netbeat
 
+Add 'sets' to the netbeat configuration.  A set is a collection of OIDs, hosts, etc used to configure.
+
 ### Requirements
 
 * [Golang](https://golang.org/dl/) 1.7
