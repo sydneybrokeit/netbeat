@@ -1,0 +1,156 @@
+- key: netbeat
+  title: netbeat
+  description: An SNMP monitor for ElasticStack
+  fields:
+    - name: snmp.host
+      type: keyword
+      required: true
+    - name: sysUpTime
+      type: long
+      required: false
+    - name: sysDescr
+      type: text
+    - name: port_1_in
+      type: long
+      required: false
+    - name: port_2_in
+      type: long
+      required: false
+    - name: port_3_in
+      type: long
+      required: false
+    - name: port_4_in
+      type: long
+      required: false
+    - name: port_5_in
+      type: long
+      required: false
+    - name: port_6_in
+      type: long
+      required: false
+    - name: port_7_in
+      type: long
+      required: false
+    - name: port_8_in
+      type: long
+      required: false
+    - name: port_9_in
+      type: long
+      required: false
+    - name: port_10_in
+      type: long
+      required: false
+    - name: port_11_in
+      type: long
+      required: false
+    - name: port_12_in
+      type: long
+      required: false
+    - name: port_13_in
+      type: long
+      required: false
+    - name: port_14_in
+      type: long
+      required: false
+    - name: port_15_in
+      type: long
+      required: false
+    - name: port_16_in
+      type: long
+      required: false
+    - name: port_17_in
+      type: long
+      required: false
+    - name: port_18_in
+      type: long
+      required: false
+    - name: port_19_in
+      type: long
+      required: false
+    - name: port_20_in
+      type: long
+      required: false
+    - name: port_21_in
+      type: long
+      required: false
+    - name: port_22_in
+      type: long
+      required: false
+    - name: port_23_in
+      type: long
+      required: false
+    - name: port_24_in
+      type: long
+      required: false
+    - name: port_1_out
+      type: long
+      required: false
+    - name: port_2_out
+      type: long
+      required: false
+    - name: port_3_out
+      type: long
+      required: false
+    - name: port_4_out
+      type: long
+      required: false
+    - name: port_5_out
+      type: long
+      required: false
+    - name: port_6_out
+      type: long
+      required: false
+    - name: port_7_out
+      type: long
+      required: false
+    - name: port_8_out
+      type: long
+      required: false
+    - name: port_9_out
+      type: long
+      required: false
+    - name: port_10_out
+      type: long
+      required: false
+    - name: port_11_out
+      type: long
+      required: false
+    - name: port_12_out
+      type: long
+      required: false
+    - name: port_13_out
+      type: long
+      required: false
+    - name: port_14_out
+      type: long
+      required: false
+    - name: port_15_out
+      type: long
+      required: false
+    - name: port_16_out
+      type: long
+      required: false
+    - name: port_17_out
+      type: long
+      required: false
+    - name: port_18_out
+      type: long
+      required: false
+    - name: port_19_out
+      type: long
+      required: false
+    - name: port_20_out
+      type: long
+      required: false
+    - name: port_21_out
+      type: long
+      required: false
+    - name: port_22_out
+      type: long
+      required: false
+    - name: port_23_out
+      type: long
+      required: false
+    - name: port_24_out
+      type: long
+      required: false

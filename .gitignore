@@ -1,0 +1,10 @@
+/.idea
+/build
+
+.DS_Store
+/netbeat
+/netbeat.test
+*.pyc
+
+netbeat_keep.yml
+

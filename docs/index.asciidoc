@@ -1,0 +1,5 @@
+= Netbeat Docs
+
+Welcome to the Netbeat documentation.
+
+
